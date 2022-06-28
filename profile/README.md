@@ -14,4 +14,4 @@ FILM lab members will be added to the FILM organization to commit to our reposit
 
 **External Contributions:**
 
-We welcome pull requests on any of our public repositories and are enthusiastic about collaboration.
+We welcome pull requests or adding issues to any of our public repositories and are enthusiastic about collaboration.
